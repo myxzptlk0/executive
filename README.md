@@ -269,7 +269,7 @@ body {
 	  <img  src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 	  <div style="top : 10%"><h2 style="text-align: center;">Shop Our Best Couches</h2><h3 style="text-align: center;">Browse through our catalogue of homely couches</h3>
 			</div>
-		<button class="button-54" role="button" href = "shop">Shop Now</button>
+		<button class="button-54" role="button" id = "shop">Shop Now</button>
 
 		
 	
@@ -281,7 +281,7 @@ body {
 	  <div ><h2>Shop Our Best Couches</h2>Browse through our catalogue of homely couches
 		shop now
 		</div>
-		<button class="button-54" role="button" href = "shop">Shop Now</button>
+		<button class="button-54" role="button" id = "shop" >Shop Now</button>
 
 	</div>
 
@@ -293,7 +293,7 @@ body {
 	  <div><h2>Shop Our Best Couches</h2>Browse through our catalogue of homely couches
 		shop now
 		</div>
-		<button class="button-54" role="button" href = "shop">Shop Now</button>
+		<button class="button-54" role="button" id = "shop">Shop Now</button>
 
 	</div>
 
