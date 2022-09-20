@@ -281,7 +281,7 @@ body {
 	  <div ><h2>Shop Our Best Couches</h2>Browse through our catalogue of homely couches
 		shop now
 		</div>
-		<button class="button-54" role="button">Shop Now</button>
+		<button class="button-54" role="button" href = "shop">Shop Now</button>
 
 	</div>
 
@@ -293,7 +293,7 @@ body {
 	  <div><h2>Shop Our Best Couches</h2>Browse through our catalogue of homely couches
 		shop now
 		</div>
-		<button class="button-54" role="button">Shop Now</button>
+		<button class="button-54" role="button" href = "shop">Shop Now</button>
 
 	</div>
 
@@ -343,7 +343,7 @@ Executive Furnitures specialises in home, shops and industrial furniture. Our co
 			<img src="https://yeebo.co.za/wp-content/uploads/2022/07/Furniture-at-yeebo.co_.za_.jpeg" style="width:100%">
 			
 			<div style="text-align: center;">
-				<button class="nice" >Buy now</button>
+				<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 			</div>
 		  
 		
@@ -351,7 +351,7 @@ Executive Furnitures specialises in home, shops and industrial furniture. Our co
 		<div class="column">
 			<img src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 				<div style="text-align: center;">
-				<button class="nice" >Buy now</button>
+				<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 			</div>
 		   
 		</div>
