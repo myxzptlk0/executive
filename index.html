@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">/
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="footer.css">
 <link rel="stylesheet" href="css/global_Definer.css">
 <!-- Navigation -->
-<style> 
+	<style> 
 body {
   margin: 0;
   background-image: linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
@@ -269,7 +269,7 @@ body {
 	  <img  src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 	  <div style="top : 10%"><h2 style="text-align: center;">Shop Our Best Couches</h2><h3 style="text-align: center;">Browse through our catalogue of homely couches</h3>
 			</div>
-		<button class="button-54" role="button">Shop Now</button>
+		<button class="button-54" role="button" href = "shop">Shop Now</button>
 
 		
 	
@@ -325,7 +325,8 @@ Executive Furnitures specialises in home, shops and industrial furniture. Our co
 		  <img src="https://yeebo.co.za/wp-content/uploads/2022/07/Furniture-at-yeebo.co_.za_.jpeg" style="width:100%">
 		  
 		  <div style="text-align: center;">
-						<button class="nice" >Buy now></button>
+						
+						<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 					</div>
 
 					</div>
@@ -333,7 +334,8 @@ Executive Furnitures specialises in home, shops and industrial furniture. Our co
 		  <img src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 		 
 		  <div style="text-align: center;">
-			<button class="nice" >Buy now</button>
+			
+						<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 		</div>
 		 
 		</div>  
@@ -356,7 +358,8 @@ Executive Furnitures specialises in home, shops and industrial furniture. Our co
 		<div class="column">
 			<img src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 				<div style="text-align: center;">
-				<button class="nice" >Buy now</button>
+				
+						<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 			</div>
 		   
 		</div>
@@ -370,14 +373,16 @@ Executive Furnitures specialises in home, shops and industrial furniture. Our co
 		<div class="column">
 			<img src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 				<div style="text-align: center;">
-				<button class="nice" >Buy now</button>
+				
+						<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 			</div>
 		   
 		</div>
 		<div class="column">
 			<img src="https://yeebo.co.za/wp-content/uploads/2022/07/Enjoy-sleeping-again-with-yeebo.co_.za_.jpeg" style="width:100%">
 				<div style="text-align: center;">
-				<button class="nice" >Buy now</button>
+				
+						<button class="nice" ><a href="https://api.whatsapp.com/send?phone=+27631241960&text=Is this available?">Whatsapp Chat</a></button>
 			</div>
 		   
 		</div>
